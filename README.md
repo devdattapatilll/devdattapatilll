@@ -1,147 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devdatta Patil - Profile</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: #333333;
-            background-color: #f4f7f6;
-            max-width: 850px;
-            margin: 0 auto;
-            padding: 30px 20px;
-        }
-        .container {
-            background-color: #ffffff;
-            padding: 40px;
-            border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-        }
-        h1 {
-            color: #2c3e50;
-            font-size: 2.5em;
-            margin-top: 0;
-            border-bottom: 3px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h3 {
-            color: #2980b9;
-            font-size: 1.4em;
-            margin-top: 35px;
-            border-bottom: 1px solid #e0e0e0;
-            padding-bottom: 5px;
-        }
-        p {
-            font-size: 1.1em;
-            color: #555555;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        .card {
-            background-color: #fcfcfc;
-            border: 1px solid #e1e8ed;
-            border-left: 5px solid #3498db;
-            border-radius: 6px;
-            padding: 15px 20px;
-            margin-bottom: 20px;
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
-        }
-        .card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
-        }
-        .card-title {
-            color: #2c3e50;
-            font-size: 1.2em;
-            margin-bottom: 5px;
-            display: block;
-        }
-        .tech-stack {
-            font-size: 0.9em;
-            color: #7f8c8d;
-            background-color: #ecf0f1;
-            padding: 2px 6px;
-            border-radius: 4px;
-            display: inline-block;
-            margin-top: 5px;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-            font-weight: 600;
-        }
-        a:hover {
-            color: #1d6fa5;
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+# Hi there, I'm Devdatta Patil 👋
 
-    <div class="container">
-        <h1>Hi there, I'm Devdatta Patil</h1>
-        
-        [cite_start]<p>I am a final-year Computer Science student at Vellore Institute of Technology[cite: 4, 8]. [cite_start]I am highly committed to applying core CS fundamentals and data-driven insights to solve complex technical challenges in professional environments[cite: 6].</p>
+I am a final-year Computer Science student at Vellore Institute of Technology, focusing on Python, Machine Learning, and Web Development. I am committed to applying core CS fundamentals and data-driven insights in a professional software development environment.
 
-        <h3>About Me</h3>
-        <ul>
-            [cite_start]<li>Currently focusing on Python, Machine Learning, and Web Development[cite: 4].</li>
-            [cite_start]<li>Experienced in building modular NLP pipelines and recommendation engine projects[cite: 5].</li>
-            [cite_start]<li>Open-source contributor for GSSOC'24 [cite: 42] [cite_start]and a Top 750 participant in the Infosys HackWithInfy competition[cite: 41].</li>
-        </ul>
+## 🙋‍♂️ About Me
+- 🎓 B.Tech in Computer Science Engineering (CGPA: 8.03/10).
+- 💡 Experienced in developing modular NLP and recommendation engine projects to solve technical challenges.
+- 🌱 Currently expanding my skills in Cloud Computing and Advanced Machine Learning algorithms.
+- 💬 Ask me about Python, Data Structures, Algorithms, or anything related to ML/Web Development!
 
-        <h3>Tech Stack & Tools</h3>
-        <ul>
-            [cite_start]<li><strong>Languages:</strong> Python, Java, C#, SQL, JavaScript [cite: 11]</li>
-            [cite_start]<li><strong>Machine Learning:</strong> Data preprocessing, Feature engineering, Model evaluation [cite: 13]</li>
-            [cite_start]<li><strong>Web Development:</strong> REST APIs, HTML, CSS [cite: 12]</li>
-            [cite_start]<li><strong>Core CS:</strong> Data Structures, Algorithms, OOP, DBMS, Operating Systems, Computer Networks [cite: 11]</li>
-            [cite_start]<li><strong>Tools:</strong> Git, GitHub, Linux CLI, Postman, VS Code [cite: 14]</li>
-        </ul>
+## 🛠️ Tech Stack & Tools
 
-        <h3>Featured Projects</h3>
-        
-        <div class="card">
-            [cite_start]<strong class="card-title">Machine Learning Based Sentiment Analysis [cite: 16]</strong>
-            [cite_start]Built a comprehensive text processing pipeline achieving 85% accuracy using advanced TF-IDF vectorization[cite: 19].<br>
-            [cite_start]<span class="tech-stack">Tech Stack: Python, Scikit-Learn, Pandas, NLTK [cite: 17]</span>
-        </div>
+**Languages & Core CS:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-        <div class="card">
-            [cite_start]<strong class="card-title">E-Commerce Product Recommender System [cite: 22]</strong>
-            [cite_start]Pioneered a content-based filtering engine employing Cosine Similarity algorithms for large-scale product metadata[cite: 24].<br>
-            [cite_start]<span class="tech-stack">Tech Stack: Python, NumPy, Pandas, Scikit-Learn [cite: 23]</span>
-        </div>
+**Web Development:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
 
-        <div class="card">
-            [cite_start]<strong class="card-title">Personal Finance Management Application [cite: 27]</strong>
-            [cite_start]Developed a full-stack web application featuring a responsive UI, intuitive dashboard [cite: 29, 30][cite_start], and strict data validation logic[cite: 31].<br>
-            [cite_start]<span class="tech-stack">Tech Stack: JavaScript, HTML, CSS [cite: 28]</span>
-        </div>
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-        <h3>Experience</h3>
-        <div class="card">
-            [cite_start]<strong class="card-title">Tech Volunteer @ Sane Guruji Foundation (NGO) [cite: 34, 35]</strong>
-            <ul style="margin-top: 10px; margin-bottom: 0;">
-                [cite_start]<li>Architected and overhauled website infrastructure and executed critical security audits[cite: 37].</li>
-                [cite_start]<li>Deployed custom automation scripts via Google Workspace API to digitize member records[cite: 38].</li>
-            </ul>
-        </div>
+## 🚀 Featured Projects
 
-        <h3>Let's Connect!</h3>
-        <ul>
-            [cite_start]<li>Email: <a href="mailto:devdattapatilwork@gmail.com">devdattapatilwork@gmail.com</a> [cite: 3]</li>
-            [cite_start]<li>LinkedIn: <a href="YOUR_LINKEDIN_URL_HERE">Let's Connect on LinkedIn</a> [cite: 3]</li>
-            [cite_start]<li>GitHub: <a href="YOUR_GITHUB_URL_HERE">Check out my Repositories</a> [cite: 3]</li>
-        </ul>
-    </div>
+### 🧠 Machine Learning Based Sentiment Analysis
+- Spearheaded a comprehensive text processing pipeline that achieved 85% Accuracy.
+- Automated review categorization for stakeholders, reducing analysis time by 40% using NLP techniques.
+- **Tech Stack:** Python, Scikit-Learn, Pandas, NLTK.
 
-</body>
-</html>
+### 🛒 E-Commerce Product Recommender System
+- Pioneered a content-based filtering engine employing Cosine Similarity algorithms on large-scale product metadata.
+- Constructed a high-performance Modular Architecture that improved backend retrieval speeds by 30%.
+- **Tech Stack:** Python, NumPy, Pandas, Scikit-Learn.
+
+### 💳 Personal Finance Management Application
+- Developed a full-stack web application featuring a Responsive UI and interactive visualizations.
+- Enforced complete CRUD operations with strict validation logic, reducing user data entry errors by 90%.
+- **Tech Stack:** JavaScript, HTML, CSS.
+
+## 💼 Experience & Open Source
+
+- **Tech Volunteer @ Sane Guruji Foundation (NGO)**: Architected and overhauled website infrastructure while executing security audits, and deployed custom automation scripts via Google Workspace API to digitize member records.
+- **GSSOC'24 Contributor**: Selected as an open-source contributor from a competitive pool of 50,000+ candidates.
+
+## 🏆 Achievements & Certifications
+
+- **HackWithInfy Top 750:** Selected in the prestigious national coding competition by Infosys.
+- **100 Days of Code:** Maintained a streak solving algorithmic problems for 100 consecutive days.
+- **Certifications:**
+  - NPTEL - Cloud Computing
+  - Oracle - AI Foundations Associate
+  - Oracle - Multi-Cloud Architect Professional
+
+## 📫 Let's Connect!
+
+<a href="mailto:devdattapatilwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
