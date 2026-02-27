@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=230&text=Devdatta%20Patil&fontAlignY=40&fontSize=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240b36,100:4b0082&height=230&text=Devdatta%20Patil&fontAlignY=40&fontSize=60&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Software Developer | Final Year CSE Student</h2>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=devdattapatilll&icon=0&color=6" alt="Profile Views" />
-  </a>
+  
 </p>
 
----
+
 ## About Me
 I am a Final Year Computer Science undergraduate with a strong foundation in software development, data structures, algorithms, and AWS, along with machine learning fundamentals. I have hands-on experience building applications using React, Node.js, Python, Java, SQL, and modern web technologies, as well as working on data-driven and ML-based projects. I emphasize writing clean logic, scalable code, and solving problems using structured and algorithmic thinking.
 
@@ -18,51 +16,47 @@ I am a Final Year Computer Science undergraduate with a strong foundation in sof
 
 **Languages:**
 <br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-2C3E50?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-4B0082?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-5A189A?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-0077B6?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-C9184A?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-02C39A?style=flat-square&logo=javascript&logoColor=white)
 
 **Core CS:**
 <br/>
-![Data Structures](https://img.shields.io/badge/-Data_Structures-004E92?style=flat-square)
-![Algorithms](https://img.shields.io/badge/-Algorithms-311B92?style=flat-square)
-![OOP](https://img.shields.io/badge/-OOP-006064?style=flat-square)
-![DBMS](https://img.shields.io/badge/-DBMS-4A148C?style=flat-square)
-![Operating Systems](https://img.shields.io/badge/-Operating_Systems-01579B?style=flat-square)
+![Data Structures](https://img.shields.io/badge/-Data_Structures-8A2BE2?style=flat-square)
+![Algorithms](https://img.shields.io/badge/-Algorithms-00B4D8?style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-D90429?style=flat-square)
+![DBMS](https://img.shields.io/badge/-DBMS-0077B6?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/-Operating_Systems-5A189A?style=flat-square)
 
 **Web & APIs:**
 <br/>
-![REST APIs](https://img.shields.io/badge/-REST_APIs-1A237E?style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-004D40?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-005CB2?style=flat-square&logo=css3&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-C9184A?style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-00B4D8?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-8A2BE2?style=flat-square&logo=css3&logoColor=white)
 
 **Machine Learning & Data:**
 <br/>
-![Data Preprocessing](https://img.shields.io/badge/-Data_Preprocessing-4B0082?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/-Feature_Engineering-004E92?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/-Model_Evaluation-311B92?style=flat-square)
+![Data Preprocessing](https://img.shields.io/badge/-Data_Preprocessing-0077B6?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/-Feature_Engineering-02C39A?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/-Model_Evaluation-D90429?style=flat-square)
 
 **Tools:**
 <br/>
-![Git](https://img.shields.io/badge/-Git-00695C?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-1A237E?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-004D40?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-005CB2?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-C9184A?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-5A189A?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-00B4D8?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-0077B6?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
 ## Github Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdattapatilll&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=devdattapatilll&theme=github_dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdattapatilll&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
----
 
 ## Achievements
 
@@ -74,15 +68,12 @@ I am a Final Year Computer Science undergraduate with a strong foundation in sof
 
 * Oracle - AI Foundations Associate 
 * Oracle - Multi-Cloud Architect Professional 
+* AWS Academy Graduate - AWS Academy Cloud Architecting
+* AWS Academy Graduate - AWS Academy Cloud Foundations
 * Ethnus Certified AWS Solutions Architect - Associate
 * Ethnus MERN Full Stack Certification
 * NPTEL - Cloud Computing
-* AWS Academy Graduate - AWS Academy Cloud Architecting
-* AWS Academy Graduate - AWS Academy Cloud Foundations
-* Saviynt Certified Identity Security for AI Age
-* Coursera - The Bits and Bytes of Computer Networking
 
----
 
 ## Let's Connect!
 
