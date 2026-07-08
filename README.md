@@ -51,11 +51,17 @@ I am a Final Year Computer Science undergraduate with a strong foundation in sof
 
 ## Github Statistics
 
+
 <p align="left">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=devdattapatilll&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devdattapatilll&theme=github_dark" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devdattapatilll&theme=github_dark&utcOffset=5.5" alt="GitHub Productive Time" />
 </p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devdattapatilll&theme=github_dark" alt="Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devdattapatilll&theme=github_dark" alt="Most Commit Language" />
+</p>
+
 
 
 ## Achievements
